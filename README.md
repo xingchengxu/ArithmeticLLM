@@ -1,5 +1,5 @@
 # ArithmeticLLM
-Code for "Principled Understanding of the Generalization of Transformer Models to Arithmetic Reasoning", (2024)
+Code for "Relating the Seemingly Unrelated: Principled Understanding of Generalization for Generative Models in Arithmetic Reasoning Tasks", (2024)
 
 Remark: The code is cloned from https://github.com/karpathy/nanoGPT. We have made modifications based on the code and our arithmetic tasks.
 
